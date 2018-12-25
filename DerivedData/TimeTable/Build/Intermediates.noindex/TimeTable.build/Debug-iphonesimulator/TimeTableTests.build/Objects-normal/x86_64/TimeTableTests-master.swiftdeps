@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "17c8167c7fbf391e2cdbef7d398f2015"
+build_time: [1545730015, 604016000]
+inputs:
+  "/Users/wigwag/Desktop/TestApp2/TimeTableTests/TimeTableTests.swift": !dirty [1485154970, 0]
+  "/Users/wigwag/Desktop/TestApp2/TimeTable/TimeTable.swift": !dirty [1485154970, 0]

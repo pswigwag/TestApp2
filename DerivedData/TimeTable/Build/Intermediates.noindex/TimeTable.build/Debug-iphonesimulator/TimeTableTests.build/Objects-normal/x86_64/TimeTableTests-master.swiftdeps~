@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "edd2e0a23ffd64a20aa541318685981c"
+build_time: [1545724272, 797482000]
+inputs:
+  "/Users/wigwag/Downloads/time-table-master/TimeTableTests/TimeTableTests.swift": [1485154970, 0]
+  "/Users/wigwag/Downloads/time-table-master/TimeTable/TimeTable.swift": [1485154970, 0]

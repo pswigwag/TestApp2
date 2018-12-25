@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "866c2d4fffb98f02a7099017a89c25ee"
+build_time: [1545724267, 619958000]
+inputs:
+  "/Users/wigwag/Downloads/time-table-master/TimeTable/ViewController.swift": [1485154970, 0]
+  "/Users/wigwag/Downloads/time-table-master/TimeTable/TimeTable.swift": [1485154970, 0]
+  "/Users/wigwag/Downloads/time-table-master/TimeTable/AppDelegate.swift": [1485154970, 0]
