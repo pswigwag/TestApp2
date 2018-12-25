@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>31B620D7-7740-4F70-A4DD-5759C94DF6CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31B620D7-7740-4F70-A4DD-5759C94DF6CE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TimeTable project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TimeTable</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TimeTable</string>
+			<key>timeStartedRecording</key>
+			<real>567458994.01391006</real>
+			<key>timeStoppedRecording</key>
+			<real>567458994.12279606</real>
+			<key>title</key>
+			<string>Build TimeTable</string>
+			<key>uniqueIdentifier</key>
+			<string>31B620D7-7740-4F70-A4DD-5759C94DF6CE</string>
+		</dict>
+		<key>E1255E19-6BA5-45DB-910B-006971EBA314</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1255E19-6BA5-45DB-910B-006971EBA314.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TimeTable project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TimeTable</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TimeTable</string>
+			<key>timeStartedRecording</key>
+			<real>567458944.48981404</real>
+			<key>timeStoppedRecording</key>
+			<real>567458946.22128999</real>
+			<key>title</key>
+			<string>Build TimeTable</string>
+			<key>uniqueIdentifier</key>
+			<string>E1255E19-6BA5-45DB-910B-006971EBA314</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
