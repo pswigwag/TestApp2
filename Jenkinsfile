@@ -10,7 +10,7 @@ node('iOS Node') {
             extensions: [], submoduleCfg: [],
             userRemoteConfigs: [[
                 name: 'github',
-                url: 'https://github.com/pswigwag/TestApp2.git'
+                url: 'https://github.com/pswigwag/TestApp3.git'
             ]]
         ])
 
