@@ -50,6 +50,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         let val2 = pickerView2.selectedRow(inComponent: 0)
         
         labelResult.text = "\(timeTable.multiply(val1, b: val2))"
+        println("test performance is done")
     }
     
 }
