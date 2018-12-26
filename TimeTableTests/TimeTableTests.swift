@@ -43,24 +43,6 @@ class TimeTableTests: XCTestCase {
             _ = timeTable.multiply(20000, b: 20000)
         }
     }
-    func testWigwag1()  {
     
-        XCTFail()
-        
-    }
-    func testWigwag2()  {
-        
-        XCTFail()
-        
-    }
-     func testWigwag3()  {
-        
-        XCTFail()
-        
-    }
-    func testWigwag4()  {
-        
-        XCTFail()
-        
-    }
+    
 }
