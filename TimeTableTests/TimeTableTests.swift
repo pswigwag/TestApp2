@@ -43,6 +43,7 @@ class TimeTableTests: XCTestCase {
             _ = timeTable.multiply(20000, b: 20000)
         }
     }
-    
+    func testPrakhar(){
+    }
     
 }
