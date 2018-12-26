@@ -44,6 +44,7 @@ class TimeTableTests: XCTestCase {
         }
     }
     func testPrakhar(){
+        XCFail()
     }
     
 }
