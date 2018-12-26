@@ -63,4 +63,9 @@ class TimeTableTests: XCTestCase {
         XCTFail()
         
     }
+     func testWigwag5()  {
+        
+        XCTFail()
+        
+    }
 }
