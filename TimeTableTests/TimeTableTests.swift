@@ -46,4 +46,9 @@ class TimeTableTests: XCTestCase {
     func testPrakhar(){
     }
     
+    func testLaunchApp()  {
+      
+        XCTAssert(4 == 3, "result is failed, number is not equal")
+        
+    }
 }
